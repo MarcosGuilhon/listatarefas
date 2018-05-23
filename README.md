@@ -1,3 +1,3 @@
 # listatarefas
 
-Lista de tarefas adicionando e removendo itens da lista, mensagens de alerta e afins
+Baixe o applistatarefas.rar para visualizar e editar o projeto completo.
